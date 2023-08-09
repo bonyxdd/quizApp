@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What does CSS stand for?",
+    "answers": [
+      "Cascading Style Sheets",
+      "Creative Styling System",
+      "Code Styling Syntax",
+      "Centralized Styling Styles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which programming language is primarily used for building interactive user interfaces in web development?",
+    "answers": ["Java", "HTML", "JavaScript", "CSS"],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a \"viewport\" meta tag in HTML?",
+    "answers": [
+      "To define the physical dimensions of the browser window",
+      "To control the zoom level of the webpage",
+      "To optimize the webpage layout for different screen sizes",
+      "To change the font size of the text on the webpage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the role of a version control system (VCS) in web development?",
+    "answers": [
+      "To optimize website performance",
+      "To create visually appealing designs",
+      "To manage and track changes to source code",
+      "To improve search engine optimization (SEO)",
+      "To automate deployment processes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a widely used front-end framework/library for building responsive and user-friendly web interfaces?",
+    "answers": ["Ruby on Rails", "Laravel", "Express.js", "Angular", "React"],
+    "correctIndex": 4
+  },
+  {
+    "question": "Which HTML element is used to create an ordered list?",
+    "answers": ["<ol>", "<ul>", "<li>", "<dl>"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does API stand for in web development?",
+    "answers": [
+      "Application Programming Interface",
+      "Advanced Page Integration",
+      "Automated Programming Interface",
+      "Application Page Integration"
+    ],
+    "correctIndex": 0
+  }
+]
